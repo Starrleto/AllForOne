@@ -1,0 +1,47 @@
+body{
+    background-image: url("../assets/bg.png");
+}
+
+.color-pink{
+    background-color: #D7C2C2;
+}
+
+.color-pink-focus:hover{
+    border: #c18a8a solid 2px;
+}
+
+.text-color-dark{
+    color: #441D1D;
+}
+
+.home-head{
+    color: #441D1D;
+    font-family: inter;
+    font-weight: 300;
+}
+
+.main-title{
+    color: #441D1D;
+    font-weight: 700;
+    font-family: inria;
+}
+
+.font-inria{
+    font-family: inria;
+}
+
+.focus:hover{
+    border: #c18a8a solid 2px;
+}
+
+
+
+@font-face {
+    font-family: inria;
+    src: url("../assets/InriaSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: inter;
+    src: url("../assets/Inter-VariableFont_slnt\,wght.ttf");
+}
